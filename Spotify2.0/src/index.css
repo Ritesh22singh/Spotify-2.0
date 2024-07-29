@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+/* 
+this is used to hide the scrollbar in WebKit-based browsers, which include Chrome, Safari, and other browsers that use the WebKit engine. */
