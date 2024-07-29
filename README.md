@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/music-app.git
+git clone https://github.com/Ritesh22singh/Spotify-2.0
 cd music-app
 Install the dependencies:
 
